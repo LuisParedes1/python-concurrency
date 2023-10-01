@@ -9,4 +9,9 @@
 
 
 # Resource
-https://realpython.com/intro-to-python-threading/
+- https://realpython.com/intro-to-python-threading/
+- https://realpython.com/python-concurrency/
+- https://docs.python.org/3/library/threading.html
+
+Examples
+https://github.com/realpython/materials/tree/master/concurrency-overview
